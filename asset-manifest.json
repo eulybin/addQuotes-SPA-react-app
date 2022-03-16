@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/addQuotes-SPA-react-app/static/css/main.c67f8347.chunk.css",
+    "main.js": "/addQuotes-SPA-react-app/static/js/main.392ff5bc.chunk.js",
+    "main.js.map": "/addQuotes-SPA-react-app/static/js/main.392ff5bc.chunk.js.map",
+    "runtime-main.js": "/addQuotes-SPA-react-app/static/js/runtime-main.2d22e1cc.js",
+    "runtime-main.js.map": "/addQuotes-SPA-react-app/static/js/runtime-main.2d22e1cc.js.map",
+    "static/js/2.90dd19d9.chunk.js": "/addQuotes-SPA-react-app/static/js/2.90dd19d9.chunk.js",
+    "static/js/2.90dd19d9.chunk.js.map": "/addQuotes-SPA-react-app/static/js/2.90dd19d9.chunk.js.map",
+    "static/css/3.608b9159.chunk.css": "/addQuotes-SPA-react-app/static/css/3.608b9159.chunk.css",
+    "static/js/3.2cb5cd7e.chunk.js": "/addQuotes-SPA-react-app/static/js/3.2cb5cd7e.chunk.js",
+    "static/js/3.2cb5cd7e.chunk.js.map": "/addQuotes-SPA-react-app/static/js/3.2cb5cd7e.chunk.js.map",
+    "static/css/4.50db3174.chunk.css": "/addQuotes-SPA-react-app/static/css/4.50db3174.chunk.css",
+    "static/js/4.d4e9bec7.chunk.js": "/addQuotes-SPA-react-app/static/js/4.d4e9bec7.chunk.js",
+    "static/js/4.d4e9bec7.chunk.js.map": "/addQuotes-SPA-react-app/static/js/4.d4e9bec7.chunk.js.map",
+    "index.html": "/addQuotes-SPA-react-app/index.html",
+    "static/css/3.608b9159.chunk.css.map": "/addQuotes-SPA-react-app/static/css/3.608b9159.chunk.css.map",
+    "static/css/4.50db3174.chunk.css.map": "/addQuotes-SPA-react-app/static/css/4.50db3174.chunk.css.map",
+    "static/css/main.c67f8347.chunk.css.map": "/addQuotes-SPA-react-app/static/css/main.c67f8347.chunk.css.map",
+    "static/js/2.90dd19d9.chunk.js.LICENSE.txt": "/addQuotes-SPA-react-app/static/js/2.90dd19d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d22e1cc.js",
+    "static/js/2.90dd19d9.chunk.js",
+    "static/css/main.c67f8347.chunk.css",
+    "static/js/main.392ff5bc.chunk.js"
+  ]
+}
